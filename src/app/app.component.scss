@@ -1,0 +1,27 @@
+$header-height: 56px;
+
+:host {
+  position: absolute;
+  top: $header-height;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.container {
+  padding: 24px 16px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  height: $header-height;
+  width: 100%;
+  z-index: 2;
+  background: white;
+
+  &__nav {
+    display: flex;
+    padding: 8px 16px;
+  }
+}
