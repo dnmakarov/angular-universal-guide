@@ -1,3 +1,3 @@
-# Default Angular project
+# Angular Universal Guide
 
-Application has few routes with API calls and can be used in different study cases.
+[The in-depth article about Angular Universal](https://medium.com/@dn.makarov/angular-universal-in-depth-tutorial-db8e6b9a1c6f)
